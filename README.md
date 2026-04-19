@@ -1,7 +1,7 @@
 # himanshu
 This is my first git repository
 <br>
-author - Himanshu
+author - HimanshuTechX
 <br>
 cource - B.tech 
    
